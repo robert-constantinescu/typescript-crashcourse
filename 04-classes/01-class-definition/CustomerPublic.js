@@ -1,4 +1,4 @@
-var Customer = /** @class */ (function () {
+var CustomerPublic = /** @class */ (function () {
     function Customer(first, last) {
         this._firstName = first;
         this._lastName = last;
